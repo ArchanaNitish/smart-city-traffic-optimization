@@ -56,3 +56,9 @@ Includes:
 - Smarter public transport scheduling
 - Proactive congestion forecasting
 - Data-driven infrastructure planning
+
+
+## 📷 Dashboard Preview
+
+![Smart City Dashboard](visuals/final dashboard.png)
+
