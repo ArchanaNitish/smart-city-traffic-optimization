@@ -60,5 +60,5 @@ Includes:
 
 ## 📷 Dashboard Preview
 
-![Smart City Dashboard](visuals/final dashboard.png)
+![Smart City Dashboard](final dashboard.png)
 
